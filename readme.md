@@ -1,4 +1,4 @@
-Welcome!
+Welcome! 🌱
 
 This is a guide to editing plant Wikipedia pages. It is:
 

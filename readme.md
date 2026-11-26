@@ -1,3 +1,5 @@
+Welcome!
+
 This is a guide to editing plant Wikipedia pages. It is:
 
 - inspired by the [arms industry wikithons](https://n-space-shs.github.io/arms-industry-wikithon/). These are a really cool format and I’d highly recommend attending one if you can!
